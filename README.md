@@ -4,4 +4,4 @@ Exploit using https://github.com/dragon731012/CAUDNS lets you screww with your a
 
 
 
-can be accessed from <a href="https://getscrewedlol.pages.dev/" target="_blank">here</a>
+can be accessed from <a href="https://external.ink/?to=https://getscrewedlol.pages.dev/" target="_blank">here</a>
